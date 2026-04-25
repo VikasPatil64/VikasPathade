@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vikas Pathade!
-**2nd Year AI & DS Student** | **ML/DL Enthusiast** | Building Intelligent Systems  
+**3nd Year AI & DS Student** | **ML/DL Enthusiast** | Building Intelligent Systems  
 
 ### 🚀 About Me
 - 🔭 Currently learning **Machine Learning, Deep Learning, and Data Science**.  
